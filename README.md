@@ -1,14 +1,10 @@
-Hunted
+Hunt-inator
 ======
 - Avoid death & destroy your foes!
 - Controls:
 	- **left,right,up,down** arrows to maneuver
 	- **space** to fire
 	- **shift** to boost
-
-Why?
-----
-- Because making a crappy game more fun than playing a good one.
 
 Dependencies
 ------------
